@@ -1,0 +1,5 @@
+C:\Users\aydin\OneDrive\Desktop\CoreApp\GameDemo\obj\Debug\net5.0\GameDemo.csproj.AssemblyReference.cache
+C:\Users\aydin\OneDrive\Desktop\CoreApp\GameDemo\obj\Debug\net5.0\GameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\OneDrive\Desktop\CoreApp\GameDemo\obj\Debug\net5.0\GameDemo.AssemblyInfoInputs.cache
+C:\Users\aydin\OneDrive\Desktop\CoreApp\GameDemo\obj\Debug\net5.0\GameDemo.AssemblyInfo.cs
+C:\Users\aydin\OneDrive\Desktop\CoreApp\GameDemo\obj\Debug\net5.0\GameDemo.csproj.CoreCompileInputs.cache
